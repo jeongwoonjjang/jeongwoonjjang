@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jeongwoonjjang&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/jeongwoonjjang"
-  width="400"
-  height="200"
+  width="500"
+  height="250"
 />
 </a>
